@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ouch",
+    "oncran": true
+  },
+  {
+    "package": "pomp",
+    "oncran": true
+  },
+  {
+    "package": "subplex",
+    "oncran": true
+  }
+]
