@@ -1,10 +1,10 @@
 [
   {
-    "package": "ouch",
+    "package": "pomp",
     "oncran": true
   },
   {
-    "package": "pomp",
+    "package": "ouch",
     "oncran": true
   },
   {
